@@ -1,6 +1,6 @@
 # Beamer Themes Collection
 
-A collection of 17 original LaTeX Beamer presentation themes — covering a range of styles from minimal and academic to bold and playful. Each theme is packaged as a standalone zip containing its `.sty` file, a demo deck, a README, and a compiled preview PDF.
+A collection of 19 original LaTeX Beamer presentation themes — covering a range of styles from minimal and academic to bold and playful. Each theme is packaged as a standalone zip containing its `.sty` file, a demo deck, a README, and a compiled preview PDF.
 
 All themes are by **Priyansh Saxena**.
 
@@ -20,6 +20,8 @@ Compiled PDF previews for every theme live in [`previews/`](previews/) — open 
 | [gridcell-beamer-theme.zip](gridcell-beamer-theme.zip) | A light spreadsheet theme with a formula-bar title, column/row grid framing, cell-style frame titles, and sheet-tab section markers. |
 | [insertcoin-beamer-theme.zip](insertcoin-beamer-theme.zip) | A retro arcade theme with CRT scanlines, a climbing score HUD, boss-fight and power-up slides, and a GAME OVER closing slide. |
 | [jaali-beamer-theme.zip](jaali-beamer-theme.zip) | A Mughal-geometry theme built from patterns only, with arch-framed titles, star tiles, gold-framed content, and a lattice (jaali) closing slide. |
+| [jupyter-notebook-beamer-theme.zip](jupyter-notebook-beamer-theme.zip) | A light theme inspired by Jupyter notebooks, with warm paper slides, `In [n]:` / `Out[n]:` cells, Python blue and Jupyter orange, and a pixel Snake game motif. |
+| [neon-terminal-beamer-theme.zip](neon-terminal-beamer-theme.zip) | A dark terminal-style theme in deep navy with cyan, pink and lime accents, macOS-style code windows, and a pixel Snake game motif. |
 | [neoncoast-beamer-theme.zip](neoncoast-beamer-theme.zip) | An 80s Miami-sunset theme with a striped sunset title slide, a glowing perspective grid floor, a "now playing" footer, and neon cards. |
 | [preprint-beamer-theme.zip](preprint-beamer-theme.zip) | A light academic theme for paper-reading sessions, with serif type, numbered sections, abstracts, captioned figures, and numbered equations/references. |
 | [reviewed-beamer-theme.zip](reviewed-beamer-theme.zip) | A light pull-request theme with a PR-header title slide, red/green code diffs, review-comment callouts, and a Merged closing slide. |
